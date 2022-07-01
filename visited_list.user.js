@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         绯月主题帖浏览记录
-// @version      0.11
 // @description  标记已经浏览过的主题帖，快速屏蔽
+// @homepage     https://github.com/OrkWard/kf_read_list
+// @version      0.12
 // @author       OrkWard
 // @match        https://*kforz.com/*
 // @match        https://*kfmax.com/*
@@ -9,7 +10,7 @@
 // @match        http*://*kfgal.com/*
 // @match        https://*kfmax.com/*
 // @match        https://*.miaola.work/*
-// @icon         https://sticker.inari.site/favicon.ico
+// @updateURL    https://github.com/OrkWard/kf_read_list/raw/main/visited_list.user.js
 // @grant        unsafeWindow
 // @run-at       document-start
 // ==/UserScript==
