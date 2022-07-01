@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         绯月主题帖浏览记录
-// @version      0.1
+// @version      0.11
 // @description  标记已经浏览过的主题帖，快速屏蔽
 // @author       OrkWard
 // @match        https://*kforz.com/*
