@@ -43,7 +43,7 @@ function weakenVisited() {
         post = $(postList[post])
         let visitedList = JSON.parse(localStorage.visitedList);
         let postname = post.attr('title');
-        if (visitedList[postname])
+        if (visitedList[postname] !== undefined)
             post.css('color', gray);
     })
 }
