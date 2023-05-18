@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         绯月主题帖浏览记录
 // @description  标记已经浏览过的主题帖，快速屏蔽
-// @version      0.1.3
+// @version      0.1.4
 // @homepage     https://github.com/OrkWard/kf_read_list
 // @author       OrkWard
 // @match        https://*kforz.com/*
@@ -18,7 +18,7 @@
 
 if (localStorage.visitedList === undefined || Array.isArray(JSON.parse(localStorage.visitedList)))
     localStorage.setItem('visitedList', JSON.stringify({}));
-if (Object.keys(localStorage.visitedList).length > 1000)
+if (Object.keys(localStorage.visitedList).length > 50000)
     localStorage.setItem('visitedList', JSON.stringify({}));
 const gray = '#CCCCCC';
 
