@@ -6,7 +6,7 @@
 // @author       OrkWard(forked from 莲华)
 // @match        *://web.telegram.org/*
 // @homepage        https://t.me/OrkWard
-// @namespace        https://gist.github.com/isssuer
+// @namespace        https://github.com/OrkWard/user-scripts/raw/main/telegram-group-muter.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
