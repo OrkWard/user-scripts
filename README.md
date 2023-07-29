@@ -9,3 +9,6 @@
 
 ### issue_read_list
 记录看过的 Issue，实现基本同上。
+
+### telegram group muter
+不显示被屏蔽的用户的消息，注：目前仅适用于 web/a 版本，其他版本未测试
