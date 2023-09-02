@@ -12,3 +12,6 @@
 
 ### telegram group muter
 不显示被屏蔽的用户的消息，注：目前仅适用于 web/a 版本，其他版本未测试
+
+### takoboto
+适用于 [ODH](https://github.com/ninja33/ODH) 的词典脚本，词源为 takoboto.jp
