@@ -6,6 +6,8 @@
 // @author       OrkWard
 // @require      https://code.jquery.com/jquery-2.1.4.min.js
 // @match        https://github.com/*
+// @downloadURL   https://github.com/OrkWard/user-scripts/raw/main/mark-github-issues-as-read.user.js
+// @updateURL   https://github.com/OrkWard/user-scripts/raw/main/mark-github-issues-as-read.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
 // @run-at document-idle
